@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kotramanojkumar.github.io/EDU-library/">🔗 Live Demo</a> •
+  <a href="[https://kotramanojkumar.github.io/EDU-library/](https://kotramanojkumar012.github.io/EDU-library/)">🔗 Live Demo</a> •
   <a href="https://github.com/kotramanojkumar012/EDU-library">📂 Source Code</a>
 </p>
 
@@ -127,7 +127,7 @@ EduLibrary/
 
 ## 🌐 Live Website
 
-👉 https://kotramanojkumar.github.io/EDU-library/
+👉[ https://kotramanojkumar.github.io/EDU-library/](https://kotramanojkumar012.github.io/EDU-library/)
 
 ---
 
