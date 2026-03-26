@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="(https://kotramanojkumar012.github.io/EDU-library/)">🔗 Live Demo</a> •
+  <a href="https://kotramanojkumar012.github.io/EDU-library/">🔗 Live Demo</a> •
   <a href="https://github.com/kotramanojkumar012/EDU-library">📂 Source Code</a>
 </p>
 
@@ -19,7 +19,7 @@
 
 KMK Online Library is a modern, responsive web app designed to simplify how engineering students discover and manage textbooks.
 
-Instead of scattered resources and cluttered interfaces, this project delivers a clean, fast, and intuitive library experience — built entirely using **Vanilla JavaScript**.
+It delivers a clean, fast, and intuitive library experience — built entirely using **Vanilla JavaScript** without any frameworks.
 
 ---
 
@@ -31,20 +31,20 @@ Instead of scattered resources and cluttered interfaces, this project delivers a
 * ❤️ Favorites system
 * 📌 Reading list management
 * 🌙 Dark mode with persistence
-* 📱 Fully responsive (mobile → desktop)
-* 🎯 Smooth UI with modern design
+* 📱 Fully responsive design
+* 🎯 Smooth UI with modern interactions
 
 ---
 
 ## 🧠 Why This Project?
 
-Engineering students often struggle to find structured and organized textbook resources.
+Engineering students often deal with scattered resources and unorganized materials.
 
-This project solves that by:
+This project brings everything into one place with:
 
-* Bringing all subjects into one place
-* Making discovery fast and distraction-free
-* Giving users control with personalization features
+* Structured subject-wise browsing
+* Fast and distraction-free discovery
+* Personalized learning features
 
 ---
 
@@ -52,33 +52,33 @@ This project solves that by:
 
 ### 📚 Smart Library Experience
 
-* Browse all subjects in a clean grid layout
-* View textbooks without page reloads
-* Consistent and minimal card design
+* Browse all subjects in a responsive grid
+* Open textbooks without page reload
+* Clean and consistent card layout
 
 ### 🔎 Search & Discovery
 
 * Real-time search for subjects and books
-* Instant filtering with zero lag
+* Instant filtering with smooth performance
 
 ### ❤️ Personalization
 
 * Save books to **Favorites**
 * Add books to a **Reading List**
-* Data persists using `localStorage`
+* Persistent data using `localStorage`
 
 ### 🎨 UI / UX
 
-* Clean landing page with hero section
+* Modern landing page with hero section
 * Sticky navigation bar
 * Smooth animations and transitions
 * Light / Dark mode toggle
 
 ### 📱 Responsive Design
 
-* Optimized for all screen sizes
+* Works across mobile, tablet, and desktop
 * Touch-friendly interactions
-* Maintains layout consistency
+* Consistent layout across devices
 
 ---
 
@@ -89,16 +89,14 @@ This project solves that by:
 * **Vanilla JavaScript**
 * **JSON (Data Handling)**
 
-> No frameworks. Built to strengthen core frontend fundamentals.
-
 ---
 
 ## ⚙️ Key Technical Decisions
 
-* Used **Vanilla JS** to deeply understand DOM manipulation and state handling
-* Implemented **localStorage** for persistence without backend
-* Structured book data using JSON for easy scalability
-* Designed reusable UI patterns for consistent layout
+* Built using **Vanilla JS** to strengthen core frontend fundamentals
+* Used **localStorage** for client-side persistence
+* Structured data using JSON for scalability
+* Designed reusable UI patterns for consistency
 
 ---
 
@@ -127,7 +125,7 @@ EduLibrary/
 
 ## 🌐 Live Website
 
-👉[ https://kotramanojkumar.github.io/EDU-library/](https://kotramanojkumar012.github.io/EDU-library/)
+👉 https://kotramanojkumar012.github.io/EDU-library/
 
 ---
 
@@ -137,23 +135,18 @@ EduLibrary/
 * 🔤 Sorting (A-Z, popularity, recent)
 * 🏷️ Tag-based filtering
 * 🔗 Shareable URLs for subjects
-* ⌨️ Keyboard navigation support
-
----
-
-## 🤝 Contributing
-
-Contributions, ideas, and feedback are welcome.
-Feel free to fork the repo and improve it.
+* ⌨️ Keyboard navigation
 
 ---
 
 ## 📄 License
 
-This project is open-source and available under the MIT License.
+This project is released into the public domain.
+
+You are free to use, modify, distribute, and build upon this project without any restrictions.
 
 ---
 
 <p align="center">
-  Built with focus, clarity, and real-world usability.
+  Built with clarity, simplicity, and real-world usability.
 </p>
