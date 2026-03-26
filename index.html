@@ -1,0 +1,284 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="EduLibrary is an engineering library for B.Tech students with curated textbooks, instant previews, and downloadable resources.">
+  <title>EduLibrary · Engineering Study Vault</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body data-theme="light">
+  <a class="skip-link" href="#subject-grid">Skip to subjects</a>
+  <div class="page-orb page-orb-left" aria-hidden="true"></div>
+  <div class="page-orb page-orb-right" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <nav class="navbar" aria-label="Primary">
+      <div class="brand-group">
+        <a class="brand-mark" href="#hero" aria-label="KMK Online Library home">
+          <img class="brand-mark-image" src="./assets/kmk-logo.svg" alt="KMK Online Library logo">
+          <span class="brand-copy">
+            <span class="brand-logo">KMK Online Library</span>
+            <span class="brand-tagline">A complete reference library for every B.Tech subject</span>
+          </span>
+        </a>
+      </div>
+      <div class="navbar-search">
+        <label class="sr-only" for="global-search">Search subjects and books</label>
+        <div class="search-field">
+          <span aria-hidden="true" class="search-icon">🔍</span>
+          <input id="global-search" type="search" name="search" placeholder="Search subjects, titles, or authors" autocomplete="off">
+        </div>
+      </div>
+      <div class="nav-actions">
+        <button class="nav-action" type="button" id="favorites-trigger" aria-label="Favorites">
+          <span class="nav-action-icon" aria-hidden="true">❤️</span>
+          <span class="nav-action-text">Favorites</span>
+          <span class="nav-action-count" id="favorites-count">0</span>
+        </button>
+        <button class="nav-action" type="button" id="reading-trigger" aria-label="Reading list">
+          <span class="nav-action-icon" aria-hidden="true">📚</span>
+          <span class="nav-action-text">Reading List</span>
+          <span class="nav-action-count" id="reading-count">0</span>
+        </button>
+        <button class="nav-action" type="button" id="theme-toggle" aria-label="Toggle dark mode">
+          <span class="nav-action-icon" aria-hidden="true">🌙</span>
+          <span class="nav-action-text">Dark Mode</span>
+        </button>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero-section" id="hero">
+      <div class="hero-content">
+        <p class="hero-kicker">Engineering Study Library</p>
+        <h1>Your engineering library, curated and ready.</h1>
+        <p class="hero-subtitle">Search every B.Tech subject, open a live preview, download a PDF, or save favorites—without leaving the page.</p>
+        <div class="hero-actions">
+          <button class="btn btn-primary" id="hero-cta" type="button">Explore Subjects</button>
+          <button class="btn btn-ghost" id="view-favorites" type="button">View Favorites</button>
+        </div>
+      </div>
+      <div class="hero-stage" aria-hidden="true">
+        <div class="hero-shelf hero-shelf-wide">
+          <p class="hero-panel-title">Live library signal</p>
+          <div class="hero-panel-grid">
+            <div>
+              <p class="hero-panel-value">127+</p>
+              <p class="hero-panel-label">Active textbooks</p>
+            </div>
+            <div>
+              <p class="hero-panel-value">450K</p>
+              <p class="hero-panel-label">Pages served</p>
+            </div>
+            <div>
+              <p class="hero-panel-value">43+</p>
+              <p class="hero-panel-label">Subjects</p>
+            </div>
+          </div>
+          <p class="hero-panel-note">A distinct build influenced by modern resource hubs, not a copy of any one interface.</p>
+        </div>
+        <div class="hero-shelf hero-shelf-card">
+          <p class="hero-stage-label">Featured stack</p>
+          <div class="hero-book-stack">
+            <article class="mini-book mini-book-primary">
+              <span class="mini-book-tag">Top pick</span>
+              <h3>Operating Systems</h3>
+              <p>Kernel architecture, schedulers, and systems internals.</p>
+            </article>
+            <article class="mini-book mini-book-secondary">
+              <span class="mini-book-tag">New shelf</span>
+              <h3>Machine Learning</h3>
+              <p>Applied models, pattern recognition, and deep learning notes.</p>
+            </article>
+            <article class="mini-book mini-book-accent">
+              <span class="mini-book-tag">Most searched</span>
+              <h3>Data Structures</h3>
+              <p>Algorithmic foundations and interview-grade references.</p>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="subject-section" aria-label="Subjects">
+      <div class="section-heading">
+        <p class="section-eyebrow">Every subject, one grid</p>
+        <h2>Engineering subjects curated for every semester</h2>
+        <p class="section-description">Filter instantly with the search bar. Choose any subject card to unlock its full reading list.</p>
+      </div>
+      <div class="subject-grid" id="subject-grid" role="list"></div>
+    </section>
+
+    <section class="subject-books-section hidden" id="subject-books-section" aria-live="polite">
+      <div class="subject-books-header">
+        <div>
+          <p class="subject-books-eyebrow">Books in focus</p>
+          <h3 id="subject-books-title"></h3>
+          <p class="subject-book-count" id="subject-book-count"></p>
+        </div>
+        <button class="pill-button" id="back-to-subjects" type="button">← Back to subjects</button>
+      </div>
+      <div class="book-grid" id="subject-book-grid"></div>
+      <div class="empty-state hidden" id="subject-books-empty">
+        <p>No books match that search. Try clearing the search above.</p>
+      </div>
+    </section>
+
+    <section class="collection-section hidden" id="favorites-section" aria-live="polite">
+      <div class="subject-books-header">
+        <div>
+          <p class="subject-books-eyebrow">Saved collection</p>
+          <h3>Favorites</h3>
+          <p class="subject-book-count" id="favorites-summary"></p>
+        </div>
+        <button class="pill-button" id="close-favorites" type="button">Close</button>
+      </div>
+      <div class="book-grid" id="favorites-grid"></div>
+      <div class="empty-state hidden" id="favorites-empty">
+        <p>No favorites yet. Save books from any subject card.</p>
+      </div>
+    </section>
+
+    <section class="collection-section hidden" id="reading-section" aria-live="polite">
+      <div class="subject-books-header">
+        <div>
+          <p class="subject-books-eyebrow">Saved collection</p>
+          <h3>Reading List</h3>
+          <p class="subject-book-count" id="reading-summary"></p>
+        </div>
+        <button class="pill-button" id="close-reading" type="button">Close</button>
+      </div>
+      <div class="book-grid" id="reading-grid"></div>
+      <div class="empty-state hidden" id="reading-empty">
+        <p>Your reading list is empty. Add books to continue later.</p>
+      </div>
+    </section>
+
+    <section class="stats-section" aria-label="Statistics">
+      <div class="section-heading">
+        <p class="section-eyebrow">Impact metrics</p>
+        <h2>Students trust EduLibrary globally</h2>
+      </div>
+      <div class="stats-grid">
+        <article class="stat-card" data-count-target="12000">
+          <span class="stat-value">0</span>
+          <p class="stat-label">Students onboarded</p>
+        </article>
+        <article class="stat-card" data-count-target="98">
+          <span class="stat-value">0</span>
+          <p class="stat-label">Net promoter score</p>
+        </article>
+        <article class="stat-card" data-count-target="127">
+          <span class="stat-value">0</span>
+          <p class="stat-label">Textbooks curated</p>
+        </article>
+        <article class="stat-card" data-count-target="43">
+          <span class="stat-value">0</span>
+          <p class="stat-label">Subjects supported</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="info-section" aria-label="About EduLibrary">
+      <div class="section-heading">
+        <p class="section-eyebrow">About</p>
+        <h2>We build a library that feels like a startup dashboard</h2>
+      </div>
+      <div class="info-grid">
+        <article class="info-card">
+          <span class="info-icon">🎯</span>
+          <h3>Precision curation</h3>
+          <p>Every book passes our faculty review before it appears in the grid. Nothing outdated.</p>
+        </article>
+        <article class="info-card">
+          <span class="info-icon">⚡</span>
+          <h3>High-performance UX</h3>
+          <p>Sticky navbar, smooth transitions, responsive grids, and buttery-fast search that keep up with focus periods.</p>
+        </article>
+        <article class="info-card">
+          <span class="info-icon">🌐</span>
+          <h3>Anytime access</h3>
+          <p>Instant previews, PDF downloads, and reading list sync across sessions via localStorage.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="contact-section" aria-label="Contact details">
+      <div class="section-heading">
+        <p class="section-eyebrow">Contact</p>
+        <h2>Talk to us</h2>
+      </div>
+      <div class="contact-grid">
+        <article>
+          <p class="contact-label">Location</p>
+          <p>Vellore Institute of Technology, Vellore, India</p>
+        </article>
+        <article>
+          <p class="contact-label">Phone</p>
+          <p>+91 9xxxx xxxxx</p>
+        </article>
+        <article>
+          <p class="contact-label">Email</p>
+          <p><a href="mailto:support@edulibrary.ai">support@edulibrary.ai</a></p>
+        </article>
+      </div>
+    </section>
+
+    <section class="review-section" aria-label="Feedback">
+      <div class="section-heading">
+        <p class="section-eyebrow">Review</p>
+        <h2>Your feedback keeps the stack fresh</h2>
+      </div>
+      <form class="review-form" id="review-form">
+        <div class="form-row">
+          <label for="review-name">Name</label>
+          <input type="text" id="review-name" name="name" placeholder="Your name" required>
+        </div>
+        <div class="form-row">
+          <label for="review-email">Email</label>
+          <input type="email" id="review-email" name="email" placeholder="you@college.edu" required>
+        </div>
+        <div class="form-row">
+          <label for="review-message">Message</label>
+          <textarea id="review-message" name="message" rows="4" placeholder="How did EduLibrary help you?" required></textarea>
+        </div>
+        <button class="btn btn-secondary" type="submit">Submit Review</button>
+        <p class="review-feedback" id="review-feedback" aria-live="polite"></p>
+      </form>
+    </section>
+  </main>
+
+  <aside class="reader-modal hidden" id="reader-modal" role="dialog" aria-modal="true" aria-labelledby="reader-title">
+    <div class="reader-overlay" data-close-reader="true"></div>
+    <div class="reader-panel">
+      <div class="reader-header">
+        <div>
+          <p class="reader-label">Book Viewer</p>
+          <h3 class="reader-title" id="reader-title">Loading…</h3>
+        </div>
+        <div class="reader-actions">
+          <button class="reader-action" id="reader-open" type="button">Open in new tab</button>
+          <button class="reader-action" id="reader-download" type="button">Download</button>
+          <button class="reader-action reader-close" id="close-reader" type="button">Close</button>
+        </div>
+      </div>
+      <div class="reader-frame">
+        <iframe id="pdf-frame" title="PDF viewer" loading="lazy" referrerpolicy="no-referrer"></iframe>
+      </div>
+    </div>
+  </aside>
+
+  <div class="toast-stack" id="toast-stack" aria-live="polite" aria-atomic="true"></div>
+
+  <footer class="site-footer">
+    <p>© 2026 Manoj Kumar – Engineering Library System</p>
+  </footer>
+
+  <script src="./js/script.js" defer></script>
+</body>
+</html>

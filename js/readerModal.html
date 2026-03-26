@@ -1,0 +1,36 @@
+<aside
+    class="reader-modal hidden"
+    id="reader-modal"
+    aria-hidden="true"
+    aria-labelledby="reader-title"
+    role="dialog"
+  >
+    <div class="reader-overlay" data-close-reader="true"></div>
+    <div class="reader-panel">
+      <div class="reader-header">
+        <div>
+          <p class="section-kicker">Reader</p>
+          <h2 id="reader-title">Book Preview</h2>
+        </div>
+        <button class="reader-close" id="close-reader" type="button" aria-label="Close reader">
+          Close
+        </button>
+      </div>
+
+      <div class="edition-list" id="edition-list" aria-live="polite"></div>
+
+      <div class="reader-actions">
+        <a id="reader-open-tab" href="#" target="_blank" rel="noopener noreferrer">Open in new tab</a>
+        <a id="reader-download" href="#" target="_blank" rel="noopener noreferrer" download>Download</a>
+      </div>
+
+      <div class="reader-frame-shell">
+        <iframe
+          id="pdf-frame"
+          title="Engineering book PDF reader"
+          loading="lazy"
+          referrerpolicy="no-referrer"
+        ></iframe>
+      </div>
+    </div>
+  </aside>

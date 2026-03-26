@@ -1,0 +1,1530 @@
+[
+  {
+    "subject": "Advanced Computer Architecture",
+    "description": "Latest textbook selections for advanced computer architecture.",
+    "books": [
+      {
+        "id": "advanced-computer-architecture-1",
+        "title": "Advanced Computer Organization & Architecture",
+        "author": "Ikvinderpal Singh",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=mhoIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=mhoIEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "advanced-computer-architecture-2",
+        "title": "Advanced computer Architecture",
+        "author": "Dr.Vijendra Pratap Singh, Dr.Attili Venkata Ramana",
+        "year": 2023,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=xVW9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=xVW9EAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "advanced-computer-architecture-3",
+        "title": "Advanced Computer Architectures",
+        "author": "Sajjan G. Shiva",
+        "year": 2018,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=bS_3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=bS_3DwAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Advanced Java",
+    "description": "Latest textbook selections for advanced java.",
+    "books": [
+      {
+        "id": "advanced-java-1",
+        "title": "Advanced Java Data Structures: Techniques and Applications for Efficient Programming",
+        "author": "Adam Jones",
+        "year": 2025,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=fVY8EQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=fVY8EQAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "advanced-java-2",
+        "title": "Advanced Java Programming",
+        "author": "Ms.M.Muthulakshmi, Ms.K.Sandya",
+        "year": 2025,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=B6ZJEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=B6ZJEQAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "advanced-java-3",
+        "title": "Advanced Java",
+        "author": "Manish Soni",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=cS4xEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=cS4xEQAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Analysis and Design of Algorithm",
+    "description": "Latest textbook selections for analysis and design of algorithm.",
+    "books": [
+      {
+        "id": "analysis-and-design-of-algorithm-1",
+        "title": "Analysis and Design of Algorithms",
+        "author": "Dr. Bhawana Pillai , Prof. Priyank Nayak",
+        "year": 2022,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=sZAuEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=sZAuEQAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "analysis-and-design-of-algorithm-2",
+        "title": "Analysis and Design of Algorithms: A Beginner\u00d5s Hope",
+        "author": "Singhal Shefali",
+        "year": 2019,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=_YxjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=_YxjDwAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "analysis-and-design-of-algorithm-3",
+        "title": "Analysis and Design of Algorithms for Combinatorial Problems",
+        "author": "G. Ausiello, M. Lucertini",
+        "year": 1985,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=x69mtjr475kC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=x69mtjr475kC&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Artificial Intelligence and Expert Systems",
+    "description": "Latest textbook selections for artificial intelligence and expert systems.",
+    "books": [
+      {
+        "id": "artificial-intelligence-and-expert-systems-1",
+        "title": "Artificial Intelligence and Expert Systems for Engineers",
+        "author": "C.S. Krishnamoorthy, S. Rajeev",
+        "year": 2018,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=ikwPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=ikwPEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "artificial-intelligence-and-expert-systems-2",
+        "title": "Artificial Intelligence & Expert Systems Sourcebook",
+        "author": "V. Daniel Hunt",
+        "year": 2012,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=gm1yBgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=gm1yBgAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "artificial-intelligence-and-expert-systems-3",
+        "title": "Artificial Intelligence, Expert Systems & Symbolic Computing",
+        "author": "E.N. Houstis, J.R. Rice",
+        "year": 1992,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=N2BppTuG9gQC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=N2BppTuG9gQC&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Big Data Analytics",
+    "description": "Latest textbook selections for big data analytics.",
+    "books": [
+      {
+        "id": "big-data-analytics-1",
+        "title": "Big Data Analytics Techniques for Market Intelligence",
+        "author": "Darwish, Dina",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=DrvtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=DrvtEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "big-data-analytics-2",
+        "title": "Big Data Analytics: A Guide to Data Science Practitioners Making the Transition to Big Data",
+        "author": "Ulrich Matter",
+        "year": 2023,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=AbzHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=AbzHEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "big-data-analytics-3",
+        "title": "Big Data Analytics and Cloud Computing: A Beginner's Guide",
+        "author": "Syed Thouheed Ahmed, Syed Muzamil Basha",
+        "year": 2021,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=dJVBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=dJVBEAAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Business Communication",
+    "description": "Latest textbook selections for business communication.",
+    "books": [
+      {
+        "id": "business-communication-1",
+        "title": "BUSINESS COMMUNICATION: e-Book for MBA, 1st Semester, Haryana NEP",
+        "author": "Dr. Neelam Turan, Vikrant Verma",
+        "year": 2025,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=RKtUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=RKtUEQAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "business-communication-2",
+        "title": "Business Communication",
+        "author": "Unknown Author",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.0,
+        "cover": "https://books.google.com/books/content?id=gpYmQj-iFnEC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=gpYmQj-iFnEC&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "business-communication-3",
+        "title": "Business Communication (For University of Delhi, B.Com Hons., Sem.6)",
+        "author": "Pooja Khanna",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=s7FDDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=s7FDDAAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Cloud Computing",
+    "description": "Latest textbook selections for cloud computing.",
+    "books": [
+      {
+        "id": "cloud-computing-1",
+        "title": "CLOUD COMPUTING: Everything You Need to Know About Cloud Computing",
+        "author": "PRABHU TL",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=qBcvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=qBcvEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "cloud-computing-2",
+        "title": "Cloud Computing",
+        "author": "Kris Jamsa",
+        "year": 2022,
+        "edition": "Reference Edition",
+        "rating": 5.0,
+        "cover": "https://books.google.com/books/content?id=BmNwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=BmNwEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "cloud-computing-3",
+        "title": "Cloud Computing Solutions: Architecture, Data Storage, Implementation, and Security",
+        "author": "Souvik Pal, Dac-Nhuong Le",
+        "year": 2022,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=YHxvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=YHxvEAAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Compiler Design",
+    "description": "Latest textbook selections for compiler design.",
+    "books": [
+      {
+        "id": "compiler-design-1",
+        "title": "Compiler Design",
+        "author": "Dr. Divvela Srinivasa Rao, Dr. Prakash Bethapudi, V. Kiran Kumar, Dr. Gopikha Sundaramoorthy\t",
+        "year": 2025,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=95OeEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=95OeEQAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "compiler-design-2",
+        "title": "COMPILER DESIGN: Introduction to Compiler Design",
+        "author": "PRABHU TL",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=10JjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=10JjEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "compiler-design-3",
+        "title": "COMPILER DESIGN, SECOND EDITION",
+        "author": "CHATTOPADHYAY, SANTANU",
+        "year": 2022,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=uvN-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=uvN-EAAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Computer Architecture and Organization",
+    "description": "Latest textbook selections for computer architecture and organization.",
+    "books": [
+      {
+        "id": "computer-architecture-and-organization-1",
+        "title": "Computer Architecture and Organization (A Practical Approach)",
+        "author": "Chopra Rajiv",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=9UV_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=9UV_EAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "computer-architecture-and-organization-2",
+        "title": "Computer Architecture and Organization: From 8085 to core2Duo & beyond",
+        "author": "Subrata Ghoshal",
+        "year": 2011,
+        "edition": "Reference Edition",
+        "rating": 1.0,
+        "cover": "https://books.google.com/books/content?id=KUIDPgtCGvwC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=KUIDPgtCGvwC&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "computer-architecture-and-organization-3",
+        "title": "COMPUTER ARCHITECTURE AND ORGANIZATION: AN INTEGRATED APPROACH",
+        "author": "Murdocca",
+        "year": 2007,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=piSk78mm3t0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=piSk78mm3t0C&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Computer Fundamentals and Programming",
+    "description": "Latest textbook selections for computer fundamentals and programming.",
+    "books": [
+      {
+        "id": "computer-fundamentals-and-programming-1",
+        "title": "Computer Fundamentals and Programming in C",
+        "author": " Sharanabasappa Raikoti",
+        "year": 2025,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=QR2QEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=QR2QEQAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "computer-fundamentals-and-programming-2",
+        "title": "Computer Fundamentals & Programming in C",
+        "author": "Goel",
+        "year": 2013,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=PoC6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=PoC6DwAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "computer-fundamentals-and-programming-3",
+        "title": "Computer Fundamentals and Programming Concepts: For Chaudhary Charan Singh University",
+        "author": "ITLESL",
+        "year": 2011,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=IRM8BAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=IRM8BAAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Computer Graphics",
+    "description": "Latest textbook selections for computer graphics.",
+    "books": [
+      {
+        "id": "computer-graphics-1",
+        "title": "Computer Graphics",
+        "author": "Neeta Nain",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=hD9lDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=hD9lDwAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "computer-graphics-2",
+        "title": "Computer Graphics and Multimedia",
+        "author": "Atul P. Godse, Dr. Deepali A. Godse",
+        "year": 2021,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=GAwfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=GAwfEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "computer-graphics-3",
+        "title": "COMPUTER GRAPHICS AND MULTIMEDIA INSIGHTS, MATHEMATICAL MODELS AND PROGRAMMING PARADIGMS",
+        "author": "EVANGELINE, D.  , ANITHA, S. ",
+        "year": 2016,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=e14ZDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=e14ZDAAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Computer Networks",
+    "description": "Latest textbook selections for computer networks.",
+    "books": [
+      {
+        "id": "computer-networks-1",
+        "title": "Computer Networks",
+        "author": "Ajit Kumar Singh, Singh",
+        "year": 2012,
+        "edition": "Reference Edition",
+        "rating": 5.0,
+        "cover": "https://books.google.com/books/content?id=O22sz1YeLPkC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=O22sz1YeLPkC&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "computer-networks-2",
+        "title": "Computer Networks: A Systems Approach",
+        "author": "Larry L. Peterson, Bruce S. Davie",
+        "year": 2007,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=ehQSyQUTIVQC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=ehQSyQUTIVQC&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "computer-networks-3",
+        "title": "COMPUTER NETWORKS: PRINCIPLES,TECHNOLOGIES AND PROTOCOLS FOR NETWORK DESIGN",
+        "author": "Olifer",
+        "year": 2006,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=RpZDGxYaueUC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=RpZDGxYaueUC&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Core Java",
+    "description": "Latest textbook selections for core java.",
+    "books": [
+      {
+        "id": "core-java-1",
+        "title": "Core Java, Volume I: Fundamentals",
+        "author": "Cay S. Horstmann",
+        "year": 2025,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=YR5-EQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=YR5-EQAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "core-java-2",
+        "title": "Core Java, Volume II: Advanced Features",
+        "author": "Cay S. Horstmann",
+        "year": 2025,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=ooaCEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=ooaCEQAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "core-java-3",
+        "title": "Core Java",
+        "author": "Manish Soni",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=83MzEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=83MzEQAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Data Mining and Data Warehousing",
+    "description": "Latest textbook selections for data mining and data warehousing.",
+    "books": [
+      {
+        "id": "data-mining-and-data-warehousing-1",
+        "title": "Data Mining and Data Warehousing: Application and Practical Techniques",
+        "author": "Dr. Rashmi Jha",
+        "year": 2025,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=zqFOEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=zqFOEQAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "data-mining-and-data-warehousing-2",
+        "title": "Data Mining & Warehousing",
+        "author": "Ikvinderpal Singh",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=3C8HEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=3C8HEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "data-mining-and-data-warehousing-3",
+        "title": "Data Mining and Data Warehousing: Principles and Practical Techniques",
+        "author": "Parteek Bhatia",
+        "year": 2019,
+        "edition": "Reference Edition",
+        "rating": 5.0,
+        "cover": "https://books.google.com/books/content?id=bF6NDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=bF6NDwAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Data Structures",
+    "description": "Latest textbook selections for data structures.",
+    "books": [
+      {
+        "id": "data-structures-1",
+        "title": "Data Structures , Algorithms, And Applications In Java (second Edition)",
+        "author": "Sartaj Sahni",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 3.0,
+        "cover": "https://books.google.com/books/content?id=aew7q_cMJRIC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=aew7q_cMJRIC&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "data-structures-2",
+        "title": "Data Structures",
+        "author": "Unknown Author",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=aYxSZurAGXEC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=aYxSZurAGXEC&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "data-structures-3",
+        "title": "Data Structures And Algorithms Using C",
+        "author": "Jyoti Prakash Singh",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=0p8bEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=0p8bEAAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Database Management System",
+    "description": "Latest textbook selections for database management system.",
+    "books": [
+      {
+        "id": "database-management-system-1",
+        "title": "Database Management System (DBMS): A Practical Approach, 5th Edition",
+        "author": "Chopra Rajiv",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 5.0,
+        "cover": "https://books.google.com/books/content?id=yjRlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=yjRlDwAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "database-management-system-2",
+        "title": "Database Management System (University of Mumbai)",
+        "author": "Bhavesh Pandya, Safa Hamdare & A.K. Sen",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=JKZDDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=JKZDDAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "database-management-system-3",
+        "title": "Database Management System MCQ (Multiple Choice Questions): Quiz Questions Chapter 1-14 & Practice Tests with Answers PDF (Computer Science MCQs, Notes & Study Guide)",
+        "author": "Arshad Iqbal",
+        "year": 2019,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=d8icDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=d8icDwAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Digital Electronics",
+    "description": "Latest textbook selections for digital electronics.",
+    "books": [
+      {
+        "id": "digital-electronics-1",
+        "title": "Digital Electronics MCQ (Multiple Choice Questions): Quiz Questions Chapter 1-25 & Practice Tests with Answers PDF (Electronics Engineering MCQs, Notes & Study Guide)",
+        "author": "Arshad Iqbal",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=crjPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=crjPDwAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "digital-electronics-2",
+        "title": "Digital Electronics and System",
+        "author": "Abhishek Bhatt",
+        "year": 2025,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=trVoEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=trVoEQAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "digital-electronics-3",
+        "title": "Digital Electronics",
+        "author": "Rishabh Anand",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=600IEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=600IEAAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Disaster Management",
+    "description": "Latest textbook selections for disaster management.",
+    "books": [
+      {
+        "id": "disaster-management-1",
+        "title": "Disaster Management",
+        "author": "R. Subramanian",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 2.0,
+        "cover": "https://books.google.com/books/content?id=_0h1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=_0h1DwAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "disaster-management-2",
+        "title": "Disaster Management 2e",
+        "author": "R Subramanian",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=H2eBEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=H2eBEQAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "disaster-management-3",
+        "title": "Disaster Management in India: Policies, Institutions, Practices",
+        "author": "Rajendra K. Pandey",
+        "year": 2023,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=S13bEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=S13bEAAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Distributed Operating Systems",
+    "description": "Latest textbook selections for distributed operating systems.",
+    "books": [
+      {
+        "id": "distributed-operating-systems-1",
+        "title": "Distributed Operating Systems: Theory and Practice",
+        "author": "Yakup Paker, Jean-Pierre Banatre",
+        "year": 2012,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=yz2qCAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=yz2qCAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "distributed-operating-systems-2",
+        "title": "Distributed Operating Systems And Algorithm Analysis",
+        "author": "Chow",
+        "year": 2009,
+        "edition": "Reference Edition",
+        "rating": 5.0,
+        "cover": "https://books.google.com/books/content?id=uzr9SvqWwx8C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=uzr9SvqWwx8C&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "distributed-operating-systems-3",
+        "title": "DISTRIBUTED OPERATING SYSTEMS: CONCEPTS AND DESIGN",
+        "author": "SINHA, PRADEEP K.",
+        "year": 1998,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=SewHKWac2I4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=SewHKWac2I4C&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Engineering Chemistry",
+    "description": "Latest textbook selections for engineering chemistry.",
+    "books": [
+      {
+        "id": "engineering-chemistry-1",
+        "title": "Engineering Chemistry",
+        "author": "Dr. Satyesh Raj Anand, Dr. Pratibha Suresh Patil, Dr. Pratima V. Damre, Dr. Nitin Dattatray Nikam",
+        "year": 2025,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=RKGaEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=RKGaEQAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "engineering-chemistry-2",
+        "title": "Engineering Chemistry I (for BPUT)",
+        "author": "Patrizia Bocchetta",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 5.0,
+        "cover": "https://books.google.com/books/content?id=jtN1HUnDPkoC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=jtN1HUnDPkoC&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "engineering-chemistry-3",
+        "title": "Engineering Chemistry I (WBUT), 3rd Edition",
+        "author": "Gourkrishna Dasmohapatra",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=jkJDDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=jkJDDAAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Engineering Mathematics - II",
+    "description": "Latest textbook selections for engineering mathematics - ii.",
+    "books": [
+      {
+        "id": "engineering-mathematics-ii-1",
+        "title": "Engineering Mathematics II: For UPTU",
+        "author": "Unknown Author",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 3.0,
+        "cover": "https://books.google.com/books/content?id=LqCRj7iQysUC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=LqCRj7iQysUC&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "engineering-mathematics-ii-2",
+        "title": "Engineering Mathematics-II",
+        "author": "T K V Iyengar, B Krishna Gandhi, S Ranganatham & M V S S N Prasad",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 5.0,
+        "cover": "https://books.google.com/books/content?id=lKnmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=lKnmDwAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "engineering-mathematics-ii-3",
+        "title": "Engineering Mathematics - II: for B.Tech. First Year (Second Semester) Students of JNTU Hyderabad",
+        "author": "Dr. T.K.V. Iyengar, Dr. M.V.S.S.N. PRASAD, S. RANGANATHAM & DR. B. KRISHNA GANDHI",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=2bqcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=2bqcEAAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Engineering Mechanics",
+    "description": "Latest textbook selections for engineering mechanics.",
+    "books": [
+      {
+        "id": "engineering-mechanics-1",
+        "title": "Engineering Mechanics",
+        "author": "Mr. Shrikrishna Avinash Gosavi, Dr. Sreenivas S, Mr. Abhendra Pratap Singh, Mrs. Janani G\t",
+        "year": 2025,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=l1-WEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=l1-WEQAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "engineering-mechanics-2",
+        "title": "Engineering Mechanics Engineering Mechanics",
+        "author": "Engineering Mechanics",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=oNQGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=oNQGEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "engineering-mechanics-3",
+        "title": "Engineering Mechanics: Electrical, Civil, Mechanical, and Mining Engineering",
+        "author": "Unknown Author",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=wr_mAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=wr_mAAAAMAAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Fundamentals of Electronics Engineering",
+    "description": "Latest textbook selections for fundamentals of electronics engineering.",
+    "books": [
+      {
+        "id": "fundamentals-of-electronics-engineering-1",
+        "title": "Fundamentals of Electronics Engineering: For Uttarakhand Technical University",
+        "author": "Thomas L. Floyd",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=TopdtCF0L2YC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=TopdtCF0L2YC&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "fundamentals-of-electronics-engineering-2",
+        "title": "Fundamentals of Electrical Engineering and Electronics (LPSPE)",
+        "author": "Theraja B.L.",
+        "year": 2022,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=GbucEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=GbucEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "fundamentals-of-electronics-engineering-3",
+        "title": "Fundamentals of Electrical and Electronics Engineering | AICTE Prescribed Textbook - English: with Lab Manual",
+        "author": "Susan S. Mathew, Saji T. Chacko",
+        "year": 2021,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=iNScEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=iNScEAAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Human Values and Professional Ethics",
+    "description": "Latest textbook selections for human values and professional ethics.",
+    "books": [
+      {
+        "id": "human-values-and-professional-ethics-1",
+        "title": "Human Values and Professional Ethics",
+        "author": "Dr. Mohammad Faiz Afzal, R. Sunil Kumar, Dr. S. Purushothaman, Dr. Anjalatchi Muthukumaran\t",
+        "year": 2025,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=hhCSEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=hhCSEQAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "human-values-and-professional-ethics-2",
+        "title": "Human Values & Professional Ethics",
+        "author": "Unknown Author",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=owMUilGmYSgC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=owMUilGmYSgC&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "human-values-and-professional-ethics-3",
+        "title": "Human Values and Professional Ethics, 3rd Edition",
+        "author": "B S Raghavan",
+        "year": 2009,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=n-KQL3uqeYMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=n-KQL3uqeYMC&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Industrial Economics and Management",
+    "description": "Latest textbook selections for industrial economics and management.",
+    "books": [
+      {
+        "id": "industrial-economics-and-management-1",
+        "title": "Industrial Economics and Principles of Management",
+        "author": "Manoj Kumar Singh",
+        "year": 2009,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=zDECaL4Ga68C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=zDECaL4Ga68C&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "industrial-economics-and-management-2",
+        "title": "Industrial Economics and Management Principles",
+        "author": "Dr. Rajan Mishra",
+        "year": 2008,
+        "edition": "Reference Edition",
+        "rating": 5.0,
+        "cover": "https://books.google.com/books/content?id=7V2jidPpOAsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=7V2jidPpOAsC&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "industrial-economics-and-management-3",
+        "title": "Industrial Engineering and Management",
+        "author": "S.C. Sharma, T.R. Banga",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=6aUEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=6aUEEAAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Information Security",
+    "description": "Latest textbook selections for information security.",
+    "books": [
+      {
+        "id": "information-security-1",
+        "title": "Information Security",
+        "author": "Dr. Tariq Hussain Sheikh, Mr. Waseem Akram, Mr. Rohit Gupta, Dr. Divya Mahajan",
+        "year": 2022,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=LyeJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=LyeJEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "information-security-2",
+        "title": "Information Security Policies, Procedures, and Standards: Guidelines for Effective Information Security Management",
+        "author": "Thomas R. Peltier",
+        "year": 2016,
+        "edition": "Reference Edition",
+        "rating": 4.5,
+        "cover": "https://books.google.com/books/content?id=mM_LsS-W4f4C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=mM_LsS-W4f4C&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "information-security-3",
+        "title": "Information Security: Policy, Processes, and Practices",
+        "author": "Seymour Goodman, Detmar W. Straub",
+        "year": 2016,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=4JcIEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=4JcIEQAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Law for Engineers",
+    "description": "Latest textbook selections for law for engineers.",
+    "books": [
+      {
+        "id": "law-for-engineers-1",
+        "title": "The Law Affecting Engineers: Being a Concise Statement of the Powers and Duties of an Engineer as Between Employer and Contractor, as Arbitrator, and as Expert Witness; Together with an Outline of the Law Relating to Engineering Contracts and an Appendix of Forms of Contract with Explanatory Notes",
+        "author": "W. Valentine Ball",
+        "year": 1909,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=4iM4AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=4iM4AAAAMAAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "law-for-engineers-2",
+        "title": "The Unwritten Laws of Engineering",
+        "author": "W.J. King",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=gJjDDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=gJjDDQAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "law-for-engineers-3",
+        "title": "Engineering Law and the I.C.E. Contracts",
+        "author": "M.W. Abrahamson",
+        "year": 2003,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=T0NZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=T0NZDwAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Linux Administration",
+    "description": "Latest textbook selections for linux administration.",
+    "books": [
+      {
+        "id": "linux-administration-1",
+        "title": "Linux Administration: A Beginner?S Guide, 3rd Edition",
+        "author": "Steven Graham, Steve Shah",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=XcqEKzD7FYgC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=XcqEKzD7FYgC&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "linux-administration-2",
+        "title": "Linux Administration Best Practices: Practical solutions to approaching the design and management of Linux systems",
+        "author": "Scott Alan Miller",
+        "year": 2022,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=VAZZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=VAZZEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "linux-administration-3",
+        "title": "Linux Administration: A Beginner\u2019s Guide, Seventh Edition",
+        "author": "Wale Soyinka",
+        "year": 2015,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=mu06CwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=mu06CwAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Management Information System",
+    "description": "Latest textbook selections for management information system.",
+    "books": [
+      {
+        "id": "management-information-system-1",
+        "title": "Management Information System",
+        "author": "Kenneth C. Laudon, Jane P. Laudon",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 3.0,
+        "cover": "https://books.google.com/books/content?id=xi_GDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=xi_GDwAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "management-information-system-2",
+        "title": "Management Information Systems : Made Easy: MBA SEM I",
+        "author": "Dr. Padmakar Shahare I Dr Ajay Pethe I Dr. Mukul Burghate",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=Yw2UEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=Yw2UEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "management-information-system-3",
+        "title": "Management Information Systems: Moving Business Forward, EMEA Edition",
+        "author": "R. Kelly Rainer, Brad Prince",
+        "year": 2019,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=FyzeEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=FyzeEAAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Mobile Ad Hoc and Sensor Networks",
+    "description": "Latest textbook selections for mobile ad hoc and sensor networks.",
+    "books": [
+      {
+        "id": "mobile-ad-hoc-and-sensor-networks-1",
+        "title": "Mobile Ad Hoc Networks: Current Status and Future Trends",
+        "author": "Jonathan Loo, Jaime Lloret Mauri",
+        "year": 2016,
+        "edition": "Reference Edition",
+        "rating": 4.0,
+        "cover": "https://books.google.com/books/content?id=Z1p8A1681tEC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=Z1p8A1681tEC&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "mobile-ad-hoc-and-sensor-networks-2",
+        "title": "Mobile Ad-hoc and Sensor Networks: 13th International Conference, MSN 2017, Beijing, China, December 17-20, 2017, Revised Selected Papers",
+        "author": "Liehuang Zhu, Sheng Zhong",
+        "year": 2018,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=qn1TDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=qn1TDwAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "mobile-ad-hoc-and-sensor-networks-3",
+        "title": "Wireless Sensor and Mobile Ad-Hoc Networks: Vehicular and Space Applications",
+        "author": "Driss Benhaddou, Ala Al-Fuqaha",
+        "year": 2015,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=Nc59BwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=Nc59BwAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Mobile Application Development",
+    "description": "Latest textbook selections for mobile application development.",
+    "books": [
+      {
+        "id": "mobile-application-development-1",
+        "title": "Mobile Application Development: Practice and Experience: 12th Industry Symposium in Conjunction with 18th ICDCIT 2022",
+        "author": "Jagannath Singh, Debasish Das",
+        "year": 2023,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=-dKkEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=-dKkEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "mobile-application-development-2",
+        "title": "Mobile Application Development, Usability, and Security",
+        "author": "Mukherjea, Sougata",
+        "year": 2016,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=JchNDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=JchNDQAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "mobile-application-development-3",
+        "title": "Mobile Application Development: JavaScript Frameworks",
+        "author": "Hazem Saleh, Ethan Holmes",
+        "year": 2016,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=aIdcDgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=aIdcDgAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Modeling and Simulation",
+    "description": "Latest textbook selections for modeling and simulation.",
+    "books": [
+      {
+        "id": "modeling-and-simulation-1",
+        "title": "Modeling and Simulation Based Analysis in Reliability Engineering",
+        "author": "Mangey Ram",
+        "year": 2018,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=kkkPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=kkkPEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "modeling-and-simulation-2",
+        "title": "Modeling and Simulation with Compose and Activate",
+        "author": "Stephen L. Campbell, Ramine Nikoukhah",
+        "year": 2018,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=6nWADwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=6nWADwAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "modeling-and-simulation-3",
+        "title": "Modeling and Simulation of Systems Using MATLAB and Simulink",
+        "author": "Devendra K. Chaturvedi",
+        "year": 2017,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=rglEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=rglEDwAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Non-Conventional Electric Power",
+    "description": "Latest textbook selections for non-conventional electric power.",
+    "books": [
+      {
+        "id": "non-conventional-electric-power-1",
+        "title": "Non-Conventional Energy in North America: Current and Future Perspectives for Electricity Generation",
+        "author": "Jorge Morales Pedraza",
+        "year": 2022,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=9BQ3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=9BQ3EAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "non-conventional-electric-power-2",
+        "title": "Non-Conventional Energy Resources",
+        "author": "Bansal N.K.",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=hqJDDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=hqJDDAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "non-conventional-electric-power-3",
+        "title": "Non-Conventional Energy Resources (For UPTU & UTU)",
+        "author": "Navani J.P. & Sapra Sonal",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=wDJlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=wDJlDwAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Object Oriented Programming Using C++",
+    "description": "Latest textbook selections for object oriented programming using c++.",
+    "books": [
+      {
+        "id": "object-oriented-programming-using-c-1",
+        "title": "Object Oriented Programming with C++, 2nd Edition",
+        "author": "Khurana Rohit",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 5.0,
+        "cover": "https://books.google.com/books/content?id=zJRDDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=zJRDDAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "object-oriented-programming-using-c-2",
+        "title": "Object Oriented Programming",
+        "author": "Anuradha A. Puntambekar",
+        "year": 2020,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=cM8cEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=cM8cEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "object-oriented-programming-using-c-3",
+        "title": "Object Oriented Programming With C++",
+        "author": "Ajit Singh, Manisha Prasad",
+        "year": 2019,
+        "edition": "Reference Edition",
+        "rating": 5.0,
+        "cover": "https://books.google.com/books/content?id=OIWYDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=OIWYDwAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Operating System",
+    "description": "Latest textbook selections for operating system.",
+    "books": [
+      {
+        "id": "operating-system-1",
+        "title": "Operating System Concepts",
+        "author": "Ekta Walia",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=saoEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=saoEEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "operating-system-2",
+        "title": "Operating System Concepts and Basic Linux Commands",
+        "author": "Shital Vivek Ghate",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=mHs6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=mHs6DwAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "operating-system-3",
+        "title": "Operating System Text Book",
+        "author": "Manish Soni",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=jqozEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=jqozEQAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Optimization and Calculus of Variations",
+    "description": "Latest textbook selections for optimization and calculus of variations.",
+    "books": [
+      {
+        "id": "optimization-and-calculus-of-variations-1",
+        "title": "A Course in the Calculus of Variations: Optimization, Regularity, and Modeling",
+        "author": "Filippo Santambrogio",
+        "year": 2023,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=xNnpEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=xNnpEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "optimization-and-calculus-of-variations-2",
+        "title": "Constrained Optimization In The Calculus Of Variations and Optimal Control Theory",
+        "author": "J Gregory",
+        "year": 2018,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=NEYPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=NEYPEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "optimization-and-calculus-of-variations-3",
+        "title": "Control Theory and Optimization I: Homogeneous Spaces and the Riccati Equation in the Calculus of Variations",
+        "author": "M.I. Zelikin",
+        "year": 2013,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=n8nuCAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=n8nuCAAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Principles of Electrical Engineering",
+    "description": "Latest textbook selections for principles of electrical engineering.",
+    "books": [
+      {
+        "id": "principles-of-electrical-engineering-1",
+        "title": "Principles of Electrical Engineering and Electronics",
+        "author": "Mehta V.K. & Mehta Rohit",
+        "year": 2006,
+        "edition": "Reference Edition",
+        "rating": 3.0,
+        "cover": "https://books.google.com/books/content?id=JTny7w2ojwwC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=JTny7w2ojwwC&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "principles-of-electrical-engineering-2",
+        "title": "Principles of Electrical, Electronics and Instrumentation Engineering",
+        "author": "Gupta B.R.",
+        "year": 2001,
+        "edition": "Reference Edition",
+        "rating": 5.0,
+        "cover": "https://books.google.com/books/content?id=UFeyvzsKJtIC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=UFeyvzsKJtIC&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "principles-of-electrical-engineering-3",
+        "title": "Principles of Electrical Engineering",
+        "author": "Harold Pender",
+        "year": 1910,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=Uoo4_PZ2Zx0C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=Uoo4_PZ2Zx0C&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Probability and Statistics",
+    "description": "Latest textbook selections for probability and statistics.",
+    "books": [
+      {
+        "id": "probability-and-statistics-1",
+        "title": "Probability and Statistics in Engineering, 4th Ed",
+        "author": "William W. Hines, Douglas C. Montgomery",
+        "year": 2008,
+        "edition": "Reference Edition",
+        "rating": 5.0,
+        "cover": "https://books.google.com/books/content?id=2GxHVjz9n0gC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=2GxHVjz9n0gC&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "probability-and-statistics-2",
+        "title": "Probability and Statistics",
+        "author": "Dr T.K.V. Iyengar & Dr B. Krishna Gandhi & S. Ranganadham &\nDr M.V.S.S.N. Prasad",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 5.0,
+        "cover": "https://books.google.com/books/content?id=aKnmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=aKnmDwAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "probability-and-statistics-3",
+        "title": "Probability and Statistics for Computer Science",
+        "author": "James L. Johnson",
+        "year": 2011,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=mzBLhov3kp8C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=mzBLhov3kp8C&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Sociology and Elements of History for Engineers",
+    "description": "Latest textbook selections for sociology and elements of history for engineers.",
+    "books": [
+      {
+        "id": "sociology-and-elements-of-history-for-engineers-1",
+        "title": "The Social Construction of Technological Systems, anniversary edition: New Directions in the Sociology and History of Technology",
+        "author": "Wiebe E. Bijker, Thomas Parke Hughes",
+        "year": 2012,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=nL34DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=nL34DwAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Software Engineering",
+    "description": "Latest textbook selections for software engineering.",
+    "books": [
+      {
+        "id": "software-engineering-1",
+        "title": "Software Engineering (WBUT), 2nd Edition",
+        "author": "Rohit Khurana",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 5.0,
+        "cover": "https://books.google.com/books/content?id=oTxDDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=oTxDDAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "software-engineering-2",
+        "title": "Software Engineering",
+        "author": "Ravi Sethi",
+        "year": 2022,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=aHmaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=aHmaEAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "software-engineering-3",
+        "title": "Software Engineering: A Methodical Approach, 2nd Edition",
+        "author": "Elvis Foster, Bradford Towle Jr.",
+        "year": 2021,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=_N0zEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=_N0zEAAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Theory of Computation",
+    "description": "Latest textbook selections for theory of computation.",
+    "books": [
+      {
+        "id": "theory-of-computation-1",
+        "title": "Theory of Computation",
+        "author": "Mr. Sreenu Banoth, Ms. Lalita Verma",
+        "year": 2025,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=mtJSEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=mtJSEQAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "theory-of-computation-2",
+        "title": "Theory of Computation: Automata, Formal Languages, Computation and Complexity",
+        "author": "K.R. Chowdhary",
+        "year": 2025,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=7bpPEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=7bpPEQAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "theory-of-computation-3",
+        "title": "Theory Of Computation Ebook-PDF: Study Material Plus Objective Questions",
+        "author": "Chandresh Agrawal, nandini books",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=vcNrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=vcNrEAAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Wireless and Mobile Computing",
+    "description": "Latest textbook selections for wireless and mobile computing.",
+    "books": [
+      {
+        "id": "wireless-and-mobile-computing-1",
+        "title": "WIRELESS AND MOBILE COMMUNICATION",
+        "author": "PALANIVELU, T. G., NAKKEERAN, R.",
+        "year": 2008,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=rKVq0C5jsX8C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=rKVq0C5jsX8C&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "wireless-and-mobile-computing-2",
+        "title": "Mobile Computing & Wireless Communication: From Basics to Essentials",
+        "author": "Mohit Thakkar",
+        "year": 2018,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=XsBNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=XsBNDwAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "wireless-and-mobile-computing-3",
+        "title": "Wireless Networks and Mobile Computing",
+        "author": "Koushik Sinha, Sasthi C. Ghosh",
+        "year": 2016,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=XCjSCgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=XCjSCgAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  },
+  {
+    "subject": "Workshop Technology",
+    "description": "Latest textbook selections for workshop technology.",
+    "books": [
+      {
+        "id": "workshop-technology-1",
+        "title": "Workshop Technology",
+        "author": "Ravindra Prakash Kiran",
+        "year": 2024,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=m6lDDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=m6lDDAAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "workshop-technology-2",
+        "title": "Workshop Technology Part 1",
+        "author": "W. Chapman",
+        "year": 2019,
+        "edition": "Reference Edition",
+        "rating": 5.0,
+        "cover": "https://books.google.com/books/content?id=xsyxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=xsyxDwAAQBAJ&printsec=frontcover&output=embed"
+      },
+      {
+        "id": "workshop-technology-3",
+        "title": "Workshop Technology Part 2",
+        "author": "W. Chapman",
+        "year": 2019,
+        "edition": "Reference Edition",
+        "rating": 4.3,
+        "cover": "https://books.google.com/books/content?id=0pq4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "pdf": "https://books.google.com/books?id=0pq4DwAAQBAJ&printsec=frontcover&output=embed"
+      }
+    ]
+  }
+]

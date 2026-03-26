@@ -1,0 +1,16 @@
+<svg width="220" height="220" viewBox="0 0 220 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220" height="220" rx="24" fill="#F8FAFC"/>
+  <text x="18" y="78" fill="#111111" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500">EST.</text>
+  <text x="168" y="78" fill="#111111" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500">2026</text>
+  <path d="M69 57L109 35L149 48L110 72L69 57Z" fill="#111111"/>
+  <path d="M79 60V82C79 92 93 99 110 99C127 99 141 92 141 82V60L110 74L79 60Z" fill="#111111"/>
+  <path d="M74 59V86" stroke="#111111" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M74 86C70 92 70 100 74 106C78 100 78 92 74 86Z" fill="#111111"/>
+  <circle cx="103" cy="71" r="3.4" fill="#F8FAFC"/>
+  <circle cx="118" cy="71" r="3.4" fill="#F8FAFC"/>
+  <path d="M101 82C106 87 115 87 120 82" stroke="#F8FAFC" stroke-width="3" stroke-linecap="round"/>
+  <rect x="84" y="87" width="30" height="14" rx="4" transform="rotate(10 84 87)" fill="#F8FAFC" stroke="#111111" stroke-width="2"/>
+  <line x1="90" y1="91" x2="109" y2="94.5" stroke="#111111" stroke-width="2"/>
+  <text x="78" y="140" fill="#111111" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="700">KMK</text>
+  <text x="56" y="171" fill="#111111" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="500">online library</text>
+</svg>

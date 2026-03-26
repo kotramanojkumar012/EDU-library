@@ -1,0 +1,34 @@
+<header class="site-header" id="top">
+    <nav class="navbar" aria-label="Primary navigation">
+      <div class="brand-group">
+        <a class="brand-logo" href="#top" aria-label="EduLibrary Home">EduLibrary</a>
+        <p class="brand-tagline">Engineering Library System</p>
+      </div>
+
+      <div class="nav-search">
+        <label class="sr-only" for="global-search">Search books</label>
+        <input
+          id="global-search"
+          class="search-input"
+          type="search"
+          placeholder="Search by title or author"
+          autocomplete="off"
+        >
+      </div>
+
+      <div class="nav-actions">
+        <button class="nav-link active" type="button" data-view="home">Home</button>
+        <button class="nav-link" type="button" data-view="favorites">
+          Favorites
+          <span class="nav-count" id="favorites-count" aria-label="Favorites count">0</span>
+        </button>
+        <button class="nav-link" type="button" data-view="reading-list">
+          Reading List
+          <span class="nav-count" id="reading-list-count" aria-label="Reading list count">0</span>
+        </button>
+        <button class="theme-toggle" type="button" aria-label="Toggle dark mode">
+          Theme
+        </button>
+      </div>
+    </nav>
+  </header>

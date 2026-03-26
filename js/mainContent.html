@@ -1,0 +1,148 @@
+<section class="controls-section" id="library-section" aria-labelledby="controls-title">
+      <div class="section-heading">
+        <p class="section-kicker">Discover</p>
+        <h2 id="controls-title">Browse the Library</h2>
+      </div>
+
+      <div class="controls-bar">
+        <div class="control-field">
+          <label for="category-filter">Category</label>
+          <select id="category-filter" name="category-filter">
+            <option value="all">All Subjects</option>
+          </select>
+        </div>
+
+        <div class="control-field">
+          <label for="sort-order">Sort</label>
+          <select id="sort-order" name="sort-order">
+            <option value="default">Featured</option>
+            <option value="rating-desc">Highest Rated</option>
+            <option value="title-asc">Title A-Z</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section class="catalog-section active-view" id="home-view" aria-labelledby="catalog-title">
+      <div class="section-heading">
+        <p class="section-kicker">Collection</p>
+        <h2 id="catalog-title">Engineering Book Catalog</h2>
+      </div>
+
+      <div class="results-summary" id="results-summary" aria-live="polite">
+        Loading collection...
+      </div>
+
+      <div class="book-grid" id="book-grid" aria-live="polite">
+        <!-- Books render here -->
+      </div>
+
+      <div class="empty-state hidden" id="catalog-empty-state" role="status">
+        <h3>No books found</h3>
+        <p>Try changing your search terms or selecting a different subject.</p>
+      </div>
+    </section>
+
+    <section class="saved-section" id="favorites-section" aria-labelledby="favorites-title">
+      <div class="section-heading">
+        <p class="section-kicker">Saved</p>
+        <h2 id="favorites-title">Favorites</h2>
+      </div>
+
+      <div class="saved-grid" id="favorites-grid" aria-live="polite"></div>
+
+      <div class="empty-state" id="favorites-empty-state" role="status">
+        <h3>Your favorites are empty</h3>
+        <p>Save standout books here for quick access later.</p>
+      </div>
+    </section>
+
+    <section class="saved-section" id="reading-list-section" aria-labelledby="reading-list-title">
+      <div class="section-heading">
+        <p class="section-kicker">Track</p>
+        <h2 id="reading-list-title">Reading List</h2>
+      </div>
+
+      <div class="saved-grid" id="reading-list-grid" aria-live="polite"></div>
+
+      <div class="empty-state" id="reading-list-empty-state" role="status">
+        <h3>Your list is empty</h3>
+        <p>Add books to build a focused semester reading plan.</p>
+      </div>
+    </section>
+
+    <section class="stats-section" aria-label="Library statistics">
+      <div class="stats-grid">
+        <article class="stat-item">
+          <strong>10000+</strong>
+          <span>Students Visited</span>
+        </article>
+        <article class="stat-item">
+          <strong>290+</strong>
+          <span>Positive Reviews</span>
+        </article>
+        <article class="stat-item">
+          <strong>100%</strong>
+          <span>Satisfaction Rate</span>
+        </article>
+        <article class="stat-item">
+          <strong>20+</strong>
+          <span>Subjects</span>
+        </article>
+      </div>
+    </section>
+
+    <section class="info-section about-section" aria-labelledby="about-title">
+      <div class="section-heading">
+        <p class="section-kicker">About</p>
+        <h2 id="about-title">About Us</h2>
+      </div>
+
+      <div class="info-card">
+        <p class="info-copy">
+          Just a small team making your college life easy with all the subjects covered.
+          We are your fellow college mates helping you succeed in exams with minimum effort.
+        </p>
+
+        <ul class="info-list">
+          <li>Easy and Accurate Resources</li>
+          <li>Online Remote Learning</li>
+          <li>Absolutely Free</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="info-section contact-section" aria-labelledby="contact-title">
+      <div class="section-heading">
+        <p class="section-kicker">Connect</p>
+        <h2 id="contact-title">Contact Us</h2>
+      </div>
+
+      <div class="info-card contact-card">
+        <p><strong>Address:</strong> Vellore</p>
+        <p><strong>Phone:</strong> +91 XXXXXXXX</p>
+        <p>
+          <strong>Email:</strong>
+          <a href="mailto:yourmail@gmail.com">yourmail@gmail.com</a>
+        </p>
+      </div>
+    </section>
+
+    <section class="info-section review-section" aria-labelledby="review-title">
+      <div class="section-heading">
+        <p class="section-kicker">Feedback</p>
+        <h2 id="review-title">Leave a Review</h2>
+      </div>
+
+      <form class="info-card review-form" id="review-form">
+        <label class="sr-only" for="review-message">Your review</label>
+        <textarea
+          id="review-message"
+          class="review-textarea"
+          rows="5"
+          placeholder="Share your experience with EduLibrary"
+          required
+        ></textarea>
+        <button class="review-submit" type="submit">Submit Review</button>
+      </form>
+    </section>
