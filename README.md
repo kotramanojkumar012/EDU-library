@@ -1,41 +1,159 @@
-# Engineering Library System
+# KMK Online Library
 
-Engineering Library is a single-page experience that surfaces every B.Tech subject from the 2023 curriculum inside one grid so students can immediately jump to curated textbooks, read them inside the browser, or download the PDF.
+<p align="center">
+  <img src="./assets/kmk-logo.svg" alt="KMK Online Library Logo" width="120" />
+</p>
 
-## Highlights
+<p align="center">
+  <b>A fast, distraction-free engineering textbook explorer built for B.Tech students.</b>
+</p>
 
-- **All subjects on one grid:** Every curriculum subject (from Foundation Core through Discipline Core) lives in a single, ungrouped grid card. Each card shows the title, an overview, and the number of books available.
-- **Search across subjects, titles, and authors:** The search input filters the grid live while also filtering the currently selected subject’s book list.
-- **Book detail view:** Clicking a subject brings up its book grid with cover art, author, edition, and CTA buttons for “Read” (modal PDF viewer) or “Download”.
-- **PDF reader with controls:** The modal loads PDFs through Mozilla’s viewer without forcing a download, and provides buttons to open the same file in a new tab or trigger a download link.
-- **Real campus feel:** Stats, About, Contact, and Review sections anchor the bottom of the page, along with a footer that honors the 2026 design brief.
-- **Responsive design:** The layout has been tuned for mobile, tablet, and desktop with hover/interaction polish and a dark blue + white palette.
+<p align="center">
+  <a href="https://kotramanojkumar.github.io/EDU-library/">🔗 Live Demo</a> •
+  <a href="https://github.com/kotramanojkumar012/EDU-library">📂 Source Code</a>
+</p>
 
-## Data source
+---
 
-- `data/books.json` contains 21 curriculum subjects (Data Structures, DBMS, OS, Networks, Theory, AI, ML, Engineering Math, and more) with 4–5 unique books per subject. Each book entry includes author, edition, rating, cover image, and a working PDF link so the reader and download actions stay reliable.
-- Cover art reuses the assets under `images/covers`.
+## 🚀 Overview
 
-## Running locally
+KMK Online Library is a modern, responsive web app designed to simplify how engineering students discover and manage textbooks.
 
-> `books.json` is fetched via `fetch`, so serve the folder over HTTP for the platform to work.
+Instead of scattered resources and cluttered interfaces, this project delivers a clean, fast, and intuitive library experience — built entirely using **Vanilla JavaScript**.
 
-### Option 1: VS Code Live Server
+---
 
-1. Open this repository in VS Code.
-2. Launch Live Server and target `index.html`.
-3. Visit the provided localhost address.
+## ✨ Key Highlights
 
-### Option 2: Python HTTP server
+* 📚 43+ engineering subjects
+* 📖 100+ curated textbooks
+* ⚡ Instant search and filtering
+* ❤️ Favorites system
+* 📌 Reading list management
+* 🌙 Dark mode with persistence
+* 📱 Fully responsive (mobile → desktop)
+* 🎯 Smooth UI with modern design
+
+---
+
+## 🧠 Why This Project?
+
+Engineering students often struggle to find structured and organized textbook resources.
+
+This project solves that by:
+
+* Bringing all subjects into one place
+* Making discovery fast and distraction-free
+* Giving users control with personalization features
+
+---
+
+## 🔍 Features
+
+### 📚 Smart Library Experience
+
+* Browse all subjects in a clean grid layout
+* View textbooks without page reloads
+* Consistent and minimal card design
+
+### 🔎 Search & Discovery
+
+* Real-time search for subjects and books
+* Instant filtering with zero lag
+
+### ❤️ Personalization
+
+* Save books to **Favorites**
+* Add books to a **Reading List**
+* Data persists using `localStorage`
+
+### 🎨 UI / UX
+
+* Clean landing page with hero section
+* Sticky navigation bar
+* Smooth animations and transitions
+* Light / Dark mode toggle
+
+### 📱 Responsive Design
+
+* Optimized for all screen sizes
+* Touch-friendly interactions
+* Maintains layout consistency
+
+---
+
+## 🛠️ Tech Stack
+
+* **HTML5**
+* **CSS3**
+* **Vanilla JavaScript**
+* **JSON (Data Handling)**
+
+> No frameworks. Built to strengthen core frontend fundamentals.
+
+---
+
+## ⚙️ Key Technical Decisions
+
+* Used **Vanilla JS** to deeply understand DOM manipulation and state handling
+* Implemented **localStorage** for persistence without backend
+* Structured book data using JSON for easy scalability
+* Designed reusable UI patterns for consistent layout
+
+---
+
+## 📂 Project Structure
 
 ```bash
-python -m http.server 8000
+EduLibrary/
+│
+├── index.html
+├── README.md
+│
+├── assets/
+│   └── kmk-logo.svg
+│
+├── css/
+│   └── styles.css
+│
+├── js/
+│   └── script.js
+│
+└── data/
+    └── books.json
 ```
 
-Then visit `http://localhost:8000`.
+---
 
-## Notes
+## 🌐 Live Website
 
-- The platform intentionally avoids section headings such as “Discipline Core” and instead presents all subjects through a single grid flow.
-- Review submissions trigger an inline thank-you message and are acknowledged with toast feedback.
-- The PDF reader uses Mozilla’s hosted viewer so every click stays inside the app, while the download/open buttons keep the document accessible.
+👉 https://kotramanojkumar.github.io/EDU-library/
+
+---
+
+## 🚧 Future Improvements
+
+* 📖 Book preview modal with detailed info
+* 🔤 Sorting (A-Z, popularity, recent)
+* 🏷️ Tag-based filtering
+* 🔗 Shareable URLs for subjects
+* ⌨️ Keyboard navigation support
+
+---
+
+## 🤝 Contributing
+
+Contributions, ideas, and feedback are welcome.
+Feel free to fork the repo and improve it.
+
+---
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+<p align="center">
+  Built with focus, clarity, and real-world usability.
+</p>
